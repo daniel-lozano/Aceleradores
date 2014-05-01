@@ -57,11 +57,11 @@ for i in range(len(time)):
     
 print len(EF),len(time)
 
-plt.plot(time,EF)
-plt.xlabel("$tiempo $")
-plt.ylabel("$Campo\ Electrico\ $")
-plt.savefig("campo_electrico.png")
-plt.close()
+#plt.plot(time,EF)
+#plt.xlabel("$tiempo $")
+#plt.ylabel("$Campo\ Electrico\ $")
+#plt.savefig("campo_electrico.png")
+#plt.close()
 ##EVOLUCION DE LOS DATOS ------------------------------
 
 for i in range(1000):
